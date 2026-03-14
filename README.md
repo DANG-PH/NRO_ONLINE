@@ -44,7 +44,7 @@ Hiện tại:
 ### Server
 - NestJS
 - Node.js
-- MySQL
+- MySQL, Redis, RabbitMQ, ...
 
 ### Infrastructure
 - Ubuntu VPS
@@ -52,20 +52,7 @@ Hiện tại:
 
 ---
 
-## 4. 📁 Cấu trúc dự án
-
-### Client
-- `core/` – Logic game chính  
-- `desktop/` – Build chạy trên PC  
-
-### Server
-- `auth-service` – Xác thực tài khoản  
-- `user-service` – Quản lý người chơi  
-- `api-gateway` – Gateway cho client game  
-
----
-
-## 5. ▶️ Cách chạy game
+## 4. ▶️ Cách chạy game
 
 1. Tải file release
 2. Giải nén file `.zip`
