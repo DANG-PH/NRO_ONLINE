@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatarfiles.alphacoders.com/110/110487.png" width="220" alt="Ngọc Rồng Online">
+  <img src="https://i.pinimg.com/736x/41/19/12/411912a0598fbae0462b0136c3e978ca.jpg" width="220" alt="Ngọc Rồng Online">
 </p>
 
 <h2 align="center">Ngọc Rồng Online – Java Multiplayer Game</h2>
