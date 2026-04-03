@@ -5,12 +5,20 @@
 <h2 align="center">Ngọc Rồng Online – Java Multiplayer Game</h2>
 
 <p align="center">
-  <a href="https://github.com/DANG-PH/NgocRongOnline/releases" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/DANG-PH/NgocRongOnline/releases">
     🚀 <strong>Tải Game</strong>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://chienbinhrongthieng.online" target="_blank" rel="noopener noreferrer">
+  <a href="https://chienbinhrongthieng.online">
     🌐 <strong>Trang Web</strong>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="[https://github.com/xxx/api-gateway](https://github.com/DANG-PH/MICROSERVICE_API_GATEWAY)">
+    🧠 <strong>API Gateway</strong>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/profile.php?id=61576541835732">
+    📣 <strong>Fanpage</strong>
   </a>
 </p>
 
