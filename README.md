@@ -13,7 +13,7 @@
     🌐 <strong>Trang Web</strong>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="[https://github.com/xxx/api-gateway](https://github.com/DANG-PH/MICROSERVICE_API_GATEWAY)">
+  <a href="https://github.com/DANG-PH/MICROSERVICE_API_GATEWAY">
     🧠 <strong>API Gateway</strong>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
