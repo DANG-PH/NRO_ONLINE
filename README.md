@@ -5,7 +5,7 @@
 <h2 align="center">Ngọc Rồng Online – Java Multiplayer Game</h2>
 
 <p align="center">
-  <a href="[https://download.chienbinhrongthieng.online](https://github.com/DANG-PH/NgocRongOnline/releases)" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/DANG-PH/NgocRongOnline/releases" target="_blank" rel="noopener noreferrer">
     🚀 <strong>Tải Game</strong>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
