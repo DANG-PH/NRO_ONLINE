@@ -5,6 +5,11 @@
 <h2 align="center">Ngọc Rồng Online – Java Multiplayer Game</h2>
 
 <p align="center">
+  🚀 <a href="https://download.chienbinhrongthieng.online">Tải Game</a> |
+  🌐 <a href="https://chienbinhrongthieng.online">Trang Web</a>
+</p>
+
+<p align="center">
   Dự án cá nhân mô phỏng <strong>Ngọc Rồng Online</strong>,<br>
   xây dựng bằng <strong>Java (LibGDX)</strong> cho client và <strong>NestJS</strong> cho server.
 </p>
@@ -30,7 +35,7 @@ Hiện tại:
 
 - Người chơi có thể đăng nhập và thấy nhau trong map  
 - Hệ thống đánh nhau (combat) chưa hoàn thiện  
-- Chưa có quái vật (monster) hoặc NPC  
+- Chưa có quái vật (monster)
 - Gameplay đang được phát triển thêm
 
 ---
@@ -53,6 +58,9 @@ Hiện tại:
 ---
 
 ## 4. ▶️ Cách chạy game
+
+👉 Tải game tại: https://download.chienbinhrongthieng.online  
+👉 Trang web: https://chienbinhrongthieng.online  
 
 1. Tải file release
 2. Giải nén file `.zip`
