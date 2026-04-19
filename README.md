@@ -25,15 +25,6 @@
 
 ---
 
-## 🌍 English Overview
-
-Ngoc Rong Online is a Java multiplayer game built using LibGDX for the client and NestJS for the backend.
-
-This project focuses on:
-- Real-time player synchronization
-- Multiplayer networking (client-server model)
-- Microservice-based architecture with Redis and RabbitMQ...
-
 ## 1. 🔧 Tính năng hiện tại
 
 - Hệ thống đăng nhập / tạo nhân vật  
