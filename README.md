@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/736x/41/19/12/411912a0598fbae0462b0136c3e978ca.jpg" width="220" alt="Ngọc Rồng Online">
 </p>
 
-<h2 align="center">Ngọc Rồng Online – Java Multiplayer Game</h2>
+<h2 align="center">Ngọc Rồng Dark – Java Multiplayer Game</h2>
 
 <p align="center">
   <a href="https://github.com/DANG-PH/NgocRongOnline/releases">
@@ -88,8 +88,8 @@ Hiện tại:
 
 ## 4. ▶️ Cách chạy game
 
-👉 Tải game tại: https://download.chienbinhrongthieng.online  
-👉 Trang web: https://chienbinhrongthieng.online  
+👉 Tải game tại: https://download.ngocrongdark.com
+👉 Trang web: https://ngocrongdark.com
 
 1. Tải file release
 2. Giải nén file `.zip`
@@ -121,7 +121,7 @@ Backend Developer – Game Developer
 ---
 
 <p align="center">
-  💥 Cảm ơn bạn đã quan tâm dự án Ngọc Rồng Online 💥
+  💥 Cảm ơn bạn đã quan tâm dự án Ngọc Rồng Dark 💥
 </p>
 
 <p align="center">
