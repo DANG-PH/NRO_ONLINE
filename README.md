@@ -13,10 +13,6 @@
     🌐 <strong>Trang Web</strong>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/DANG-PH/MICROSERVICE_API_GATEWAY">
-    🧠 <strong>Source Server</strong>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/profile.php?id=61576541835732">
     📣 <strong>Fanpage</strong>
   </a>
