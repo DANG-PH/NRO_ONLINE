@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/originals/fd/91/b1/fd91b1715061efc79dbb6678aea0f9b9.gif" width="220" alt="Ngọc Rồng Online">
 </p>
 
-<h2 align="center">Ngọc Rồng Dark – Java Multiplayer Game</h2>
+<h2 align="center">Ngọc Rồng Dark</h2>
 
 <p align="center">
   <a href="https://github.com/DANG-PH/NgocRongOnline/releases">
